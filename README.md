@@ -1,6 +1,6 @@
-Olá 👋, sou Gil! Um estudante de Full Stack.
+Olá 👋, sou Gil! Estudante de Full Stack.
 
-🌱 Atualmente, estou focando no Front-end.
+🌱 Atualmente focando no Front-end.
 
 🔭 Estou em busca da minha primeira oportunidade de trabalho.
 
